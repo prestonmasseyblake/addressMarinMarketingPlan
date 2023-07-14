@@ -88,7 +88,7 @@ function App() {
 
                 <li className="font-bold cursor-pointer">
                   <Link to="digital content" spy={true} smooth={true}>
-                    digital content
+                    Digital content
                   </Link>
                 </li>
 
@@ -228,6 +228,22 @@ function App() {
               deliverable to be completed over the next 6 months.
             </p>
             <div className="flex ">
+              <a
+                href="https://drive.google.com/drive/u/0/folders/1AsYWMdsxM9VaGwkEv4FXRNJhmFVRS4pY"
+                target="_blank"
+                rel="noreferrer"
+                className="mr-4 bg-[#000] text-white p-2 my-4 rounded-md font-bold "
+              >
+                Google Drive
+              </a>
+              <a
+                href="https://trello.com/invite/b/ugZ3RNbd/ATTIdb62d6522b36e6fce0b6e83dba95b445D93C8D96/address-marin"
+                target="_blank"
+                rel="noreferrer"
+                className="mr-4 bg-[#000] text-white p-2 my-4 rounded-md font-bold "
+              >
+                Trello Board
+              </a>
               <a
                 href="https://trello.com/invite/b/ugZ3RNbd/ATTIdb62d6522b36e6fce0b6e83dba95b445D93C8D96/address-marin"
                 target="_blank"
